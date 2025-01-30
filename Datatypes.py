@@ -26,8 +26,6 @@ print(type(e))
 
 print(f'I have eaten {99} burritos.')
 
-
-
 #Tuples
 spam = ['cat, mice, dog']
 print(spam)

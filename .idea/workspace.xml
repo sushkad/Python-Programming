@@ -4,30 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eb23c55-6777-4a2c-9373-048933d9669a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Pythonpro.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrayprogramm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classesobject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datatypes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringtoInt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/While loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Whileq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boxPrint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fivetimes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hyperlink.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifelse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/y.py" afterDir="false" />
+    <list default="true" id="4eb23c55-6777-4a2c-9373-048933d9669a" name="Changes" comment="Udemy code">
+      <change beforePath="$PROJECT_DIR$/Datatypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datatypes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -55,31 +38,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.Arrayprogramm.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Classesobject.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Datatypes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Interview.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.StringtoInt.executor&quot;: &quot;Run&quot;,
-    &quot;Python.While loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Whileq.executor&quot;: &quot;Run&quot;,
-    &quot;Python.array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.boxPrint.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cats.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fivetimes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hyperlink.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ifelse.executor&quot;: &quot;Run&quot;,
-    &quot;Python.y.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.Arrayprogramm.executor": "Run",
+    "Python.Classesobject.executor": "Run",
+    "Python.Datatypes.executor": "Run",
+    "Python.Function.executor": "Run",
+    "Python.Inheritance.executor": "Run",
+    "Python.Interview.executor": "Run",
+    "Python.Loop.executor": "Run",
+    "Python.StringtoInt.executor": "Run",
+    "Python.While loop.executor": "Run",
+    "Python.Whileq.executor": "Run",
+    "Python.array.executor": "Run",
+    "Python.boxPrint.executor": "Run",
+    "Python.cats.executor": "Run",
+    "Python.fivetimes.executor": "Run",
+    "Python.hyperlink.executor": "Run",
+    "Python.ifelse.executor": "Run",
+    "Python.y.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "sushant",
+    "ignore.virus.scanning.warn.message": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="y" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pythonpro" />
@@ -125,9 +108,31 @@
       <option name="presentableId" value="Default" />
       <updated>1730745931931</updated>
     </task>
+    <task id="LOCAL-00001" summary="Udemy code">
+      <option name="closed" value="true" />
+      <created>1738176201707</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738176201708</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Udemy code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Udemy code" />
   </component>
 </project>
