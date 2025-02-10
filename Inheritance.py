@@ -1,4 +1,4 @@
-# accuring properties of parent class
+# accruing properties of parent class
 
 print("Updated Inheritance Concept")
 

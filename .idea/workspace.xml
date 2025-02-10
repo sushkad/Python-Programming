@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eb23c55-6777-4a2c-9373-048933d9669a" name="Changes" comment="Inheritance example">
-      <change afterPath="$PROJECT_DIR$/Dictionaries.py" afterDir="false" />
+    <list default="true" id="4eb23c55-6777-4a2c-9373-048933d9669a" name="Changes" comment="Dictionaries">
+      <change afterPath="$PROJECT_DIR$/Strings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionaries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +54,7 @@
     "Python.Inheritance.executor": "Run",
     "Python.Interview.executor": "Run",
     "Python.Loop.executor": "Run",
+    "Python.Strings.executor": "Run",
     "Python.StringtoInt.executor": "Run",
     "Python.While loop.executor": "Run",
     "Python.Whileq.executor": "Run",
@@ -144,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738598828970</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Dictionaries">
+      <option name="closed" value="true" />
+      <created>1738954326464</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738954326464</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,6 +175,7 @@
     <MESSAGE value="Changes in Datatypes file" />
     <MESSAGE value="Constructor and Evenodd" />
     <MESSAGE value="Inheritance example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance example" />
+    <MESSAGE value="Dictionaries" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dictionaries" />
   </component>
 </project>
