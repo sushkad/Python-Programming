@@ -13,6 +13,4 @@ print(str+str1)         # Concatinate
 
 print(str3 in str)      # False str3 is present in str or not
 
-
-
 print(str.split("."))
