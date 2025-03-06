@@ -36,3 +36,4 @@ dic = {"a" :2 ,4 : "cbd","c":"hello world"}
 
 print(dic[4])
 print(dic["c"])
+
