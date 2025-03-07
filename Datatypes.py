@@ -26,7 +26,7 @@ print(type(e))
 
 print(f'I have eaten {99} burritos.')
 
-#Tuples
+
 spam = ['cat, mice, dog']
 print(spam)
 
@@ -34,5 +34,6 @@ family = ['sushant','sonu','sagar']
 print(family)
 
 
-
-
+fruit = ["apple", "banana", "orange"]
+fruit.append("Lichi")
+print(fruit)

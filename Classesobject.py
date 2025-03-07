@@ -1,4 +1,6 @@
 
+# classes are user defined prototye
+
 class One:              # create class
     num= 100
 
