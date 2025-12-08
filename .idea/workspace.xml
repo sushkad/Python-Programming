@@ -4,12 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eb23c55-6777-4a2c-9373-048933d9669a" name="Changes" comment="String and Functions">
+    <list default="true" id="4eb23c55-6777-4a2c-9373-048933d9669a" name="Changes" comment="28 aug">
+      <change afterPath="$PROJECT_DIR$/basics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2e-test-frontend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2e-test-frontend/ema_scan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2e-test-frontend/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login_crawler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shorts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple_crawler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop18-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Pythonpro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pythonpro.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Datatypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datatypes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interview.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringtoInt.py" beforeDir="false" afterPath="$PROJECT_DIR$/StringtoInt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array.py" beforeDir="false" afterPath="$PROJECT_DIR$/array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fivetimes.py" beforeDir="false" afterPath="$PROJECT_DIR$/fivetimes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ifelse.py" beforeDir="false" afterPath="$PROJECT_DIR$/ifelse.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +43,25 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sushkad&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sushkad/Python-Programming.git&quot;,
+    &quot;accountId&quot;: &quot;4fb903e2-40d8-4568-a1f7-8581818a8c1a&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2oOgFMOXOi7wTm7x7qtN9QfRrwM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -60,14 +86,23 @@
     &quot;Python.While loop.executor&quot;: &quot;Run&quot;,
     &quot;Python.Whileq.executor&quot;: &quot;Run&quot;,
     &quot;Python.array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basics.executor&quot;: &quot;Run&quot;,
     &quot;Python.boxPrint.executor&quot;: &quot;Run&quot;,
     &quot;Python.cats.executor&quot;: &quot;Run&quot;,
+    &quot;Python.coder.executor&quot;: &quot;Run&quot;,
     &quot;Python.fivetimes.executor&quot;: &quot;Run&quot;,
     &quot;Python.hyperlink.executor&quot;: &quot;Run&quot;,
     &quot;Python.ifelse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.login_crawler.executor&quot;: &quot;Run&quot;,
+    &quot;Python.shorts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.simple_crawler.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.webcrawling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.while loop18-2.executor&quot;: &quot;Run&quot;,
     &quot;Python.y.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;sushant&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
 }</component>
@@ -103,7 +138,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+        <option value="bundled-python-sdk-7bb8055f9097-cbfc7b97e6b2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.28238.29" />
       </set>
     </attachedChunks>
   </component>

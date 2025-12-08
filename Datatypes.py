@@ -37,3 +37,40 @@ print(family)
 fruit = ["apple", "banana", "orange"]
 fruit.append("Lichi")
 print(fruit)
+
+
+fruits = ["apple", "banana", "cherry", "date", "elderberry"]
+
+print(fruits[0])
+print(fruits[-1])
+print(fruits[1:3])
+
+
+
+
+string = "seert"
+print(string[::-1])
+
+
+
+word = "apple"
+count_p = word.count('p')
+print(count_p)
+
+
+
+list =[1, 6, 10]
+list.append(12)
+print(list)
+
+
+qa_tuples = (1, 4, 8 ,100)
+qa_tuples[2] = 5
+print(qa_tuples)
+
+
+
+
+qa_dict = {"apple": "red", "orange":"yello orange"}
+print(qa_dict["apple"])
+

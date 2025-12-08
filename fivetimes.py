@@ -1,7 +1,5 @@
-
-
 print('My Country is')
-for i in range(2):
+for i in range(27):
     print('INDIA('+str(i)+')')
 
 

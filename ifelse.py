@@ -1,11 +1,8 @@
 
 sushant = "learn js and python"
 a = 27
-
 if a > 5:
-
     print("condition matches")
-
 else:
     print("learn js and python")
     print("Does not match")
@@ -21,3 +18,14 @@ sum = 0
 for j in range(1,6):
     sum = sum+j
     print(sum)
+
+# If else
+
+greeting = "Yes"
+
+if greeting == "morning":
+    print("Match")
+else:
+    print("Not match")
+
+
