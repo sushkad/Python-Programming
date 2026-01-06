@@ -94,7 +94,7 @@
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.SDET1">
+  <component name="RunManager">
     <configuration name="SDET1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pythonpro" />
       <option name="ENV_FILES" value="" />

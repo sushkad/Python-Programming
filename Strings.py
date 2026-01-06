@@ -24,7 +24,47 @@ age  = 27
 name  = "sushant"
 
 height = 6.1
+real = True
 print(age, name , height)
 
 
 
+# int , float , str , bool
+
+x = 27
+print(type(x))   # type
+print(type(real))
+
+
+# Input and output
+
+age = int(input("Enter your age: "))
+print("next year you'll be",age + 1)
+
+
+
+# arithmetic Operator
+
+f = 10
+g = 3
+
+print(f + g)
+print(f - g)
+print(f * g)
+
+
+print(f % g)
+print(f ** g)
+
+
+# String Operation
+
+first = "data"
+second = "analyst"
+
+print(first + " " + second)
+
+# Concatenate
+
+print("SUSHANT" * 2)
+print(len(first))
