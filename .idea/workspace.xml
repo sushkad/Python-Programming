@@ -5,24 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4eb23c55-6777-4a2c-9373-048933d9669a" name="Changes" comment="28 aug">
-      <change afterPath="$PROJECT_DIR$/basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e-test-frontend" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/ema_scan.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login_crawler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shorts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple_crawler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while loop18-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Pythonpro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pythonpro.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datatypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datatypes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fivetimes.py" beforeDir="false" afterPath="$PROJECT_DIR$/fivetimes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifelse.py" beforeDir="false" afterPath="$PROJECT_DIR$/ifelse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e-test-frontend" beforeDir="false" afterPath="$PROJECT_DIR$/e2e-test-frontend" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,45 +55,69 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.Arrayprogramm.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Classesobject.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Constructor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Datatypes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Dictionaries.executor&quot;: &quot;Run&quot;,
-    &quot;Python.EvenOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Interview.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.StringtoInt.executor&quot;: &quot;Run&quot;,
-    &quot;Python.While loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Whileq.executor&quot;: &quot;Run&quot;,
-    &quot;Python.array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.basics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.boxPrint.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cats.executor&quot;: &quot;Run&quot;,
-    &quot;Python.coder.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fivetimes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hyperlink.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ifelse.executor&quot;: &quot;Run&quot;,
-    &quot;Python.login_crawler.executor&quot;: &quot;Run&quot;,
-    &quot;Python.shorts.executor&quot;: &quot;Run&quot;,
-    &quot;Python.simple_crawler.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.webcrawling.executor&quot;: &quot;Run&quot;,
-    &quot;Python.while loop18-2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.y.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.Arrayprogramm.executor": "Run",
+    "Python.Classesobject.executor": "Run",
+    "Python.Constructor.executor": "Run",
+    "Python.Datatypes.executor": "Run",
+    "Python.Dictionaries.executor": "Run",
+    "Python.EvenOdd.executor": "Run",
+    "Python.Function.executor": "Run",
+    "Python.Inheritance.executor": "Run",
+    "Python.Interview.executor": "Run",
+    "Python.Loop.executor": "Run",
+    "Python.SDET1.executor": "Run",
+    "Python.Strings.executor": "Run",
+    "Python.StringtoInt.executor": "Run",
+    "Python.While loop.executor": "Run",
+    "Python.Whileq.executor": "Run",
+    "Python.array.executor": "Run",
+    "Python.basics.executor": "Run",
+    "Python.boxPrint.executor": "Run",
+    "Python.cats.executor": "Run",
+    "Python.coder.executor": "Run",
+    "Python.fivetimes.executor": "Run",
+    "Python.hyperlink.executor": "Run",
+    "Python.ifelse.executor": "Run",
+    "Python.login_crawler.executor": "Run",
+    "Python.shorts.executor": "Run",
+    "Python.simple_crawler.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.webcrawling.executor": "Run",
+    "Python.while loop18-2.executor": "Run",
+    "Python.y.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Python.SDET1">
+    <configuration name="SDET1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pythonpro" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SDET1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="y" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pythonpro" />
       <option name="ENV_FILES" value="" />
@@ -120,6 +131,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/y.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -131,6 +143,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SDET1" />
         <item itemvalue="Python.y" />
       </list>
     </recent_temporary>
@@ -138,7 +151,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-7bb8055f9097-cbfc7b97e6b2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.28238.29" />
+        <option value="bundled-python-sdk-0978a7220b69-9867c7d4c0a4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.28294.336" />
       </set>
     </attachedChunks>
   </component>
