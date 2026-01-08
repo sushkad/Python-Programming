@@ -22,9 +22,9 @@ print("start python pgm")
 
 age  = 27
 name  = "sushant"
-
 height = 6.1
 real = True
+
 print(age, name , height)
 
 
@@ -68,3 +68,17 @@ print(first + " " + second)
 
 print("SUSHANT" * 2)
 print(len(first))
+
+
+
+print(10 // 3)
+
+input()
+
+
+
+str = "1"
+print(str)
+
+
+

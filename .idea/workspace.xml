@@ -7,8 +7,10 @@
     <list default="true" id="4eb23c55-6777-4a2c-9373-048933d9669a" name="Changes" comment="28 aug">
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/ema_scan.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcx.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringtoInt.py" beforeDir="false" afterPath="$PROJECT_DIR$/StringtoInt.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e2e-test-frontend" beforeDir="false" afterPath="$PROJECT_DIR$/e2e-test-frontend" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,6 +84,7 @@
     "Python.hyperlink.executor": "Run",
     "Python.ifelse.executor": "Run",
     "Python.login_crawler.executor": "Run",
+    "Python.mcx.executor": "Run",
     "Python.shorts.executor": "Run",
     "Python.simple_crawler.executor": "Run",
     "Python.test.executor": "Run",
@@ -90,11 +93,11 @@
     "Python.y.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "#9 on main",
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.SDET1">
     <configuration name="SDET1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pythonpro" />
       <option name="ENV_FILES" value="" />
