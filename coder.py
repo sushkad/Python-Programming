@@ -1,3 +1,14 @@
-# 2. Program that takes a user's name and age as input and prints a greeting message
-def greet_user(name, age):
-    return f"Hello, {name}! You are {age} years old."
+
+age = 25
+
+height = 5.9
+
+favorite_color = "blue"
+
+
+
+print("Age:", age, "| Type:", type(age))
+
+print("Height:", height, "| Type:", type(height))
+
+print("Favorite Color:", favorite_color, "| Type:", type(favorite_color))
