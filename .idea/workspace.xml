@@ -7,9 +7,11 @@
     <list default="true" id="4eb23c55-6777-4a2c-9373-048933d9669a" name="Changes" comment="28 aug">
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/ema_scan.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coder.py" beforeDir="false" afterPath="$PROJECT_DIR$/coder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionaries.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e2e-test-frontend" beforeDir="false" afterPath="$PROJECT_DIR$/e2e-test-frontend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listpgm.py" beforeDir="false" afterPath="$PROJECT_DIR$/listpgm.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +83,7 @@
     &quot;Python.fivetimes.executor&quot;: &quot;Run&quot;,
     &quot;Python.hyperlink.executor&quot;: &quot;Run&quot;,
     &quot;Python.ifelse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.listpgm.executor&quot;: &quot;Run&quot;,
     &quot;Python.login_crawler.executor&quot;: &quot;Run&quot;,
     &quot;Python.mcx.executor&quot;: &quot;Run&quot;,
     &quot;Python.oops.executor&quot;: &quot;Run&quot;,
