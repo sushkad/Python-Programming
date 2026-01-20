@@ -10,8 +10,10 @@ class Calculator:
     num = 100  # class variable
     # default constructor
 
+    def __init__(self):
+        print("Constructor")
 
-    arr = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
 
 
     def getData(self):
