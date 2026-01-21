@@ -10,15 +10,23 @@ class Calculator:
     num = 100  # class variable
     # default constructor
 
-    def __init__(self):
+    def __init__(self , a, b):
+        self.first = a
+        self.second = b
+
         print("Constructor")
-
-
 
 
     def getData(self):
         print("Execute method in class")
 
-obj = Calculator()
+    def summation(self):
+         return self.first + self.second + Calculator.num
+
+obj = Calculator(2,3)
 obj.getData()
-print(obj.num)
+print(obj.summation())
+
+obj1 = Calculator(4,5)
+obj1.getData()
+print(obj1.summation())
