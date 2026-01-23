@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4eb23c55-6777-4a2c-9373-048933d9669a" name="Changes" comment="28 aug">
-      <change afterPath="$PROJECT_DIR$/Basiccalculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Greetfuction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Averagecalculator.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/ema_scan.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -60,6 +59,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.Arrayprogramm.executor": "Run",
+    "Python.Averagecalculator.executor": "Run",
     "Python.Basiccalculator.executor": "Run",
     "Python.ChildInheritance.executor": "Run",
     "Python.Classesobject.executor": "Run",
@@ -68,6 +68,7 @@
     "Python.Dictionaries.executor": "Run",
     "Python.EvenOdd.executor": "Run",
     "Python.Function.executor": "Run",
+    "Python.Greetfuction.executor": "Run",
     "Python.Inheritance.executor": "Run",
     "Python.Interview.executor": "Run",
     "Python.Loop.executor": "Run",
