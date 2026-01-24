@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4eb23c55-6777-4a2c-9373-048933d9669a" name="Changes" comment="28 aug">
-      <change afterPath="$PROJECT_DIR$/Averagecalculator.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/ema_scan.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readwrite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e2e-test-frontend" beforeDir="false" afterPath="$PROJECT_DIR$/e2e-test-frontend" afterDir="false" />
     </list>
@@ -90,6 +91,7 @@
     "Python.loop1.executor": "Run",
     "Python.mcx.executor": "Run",
     "Python.oops.executor": "Run",
+    "Python.readwrite.executor": "Run",
     "Python.shorts.executor": "Run",
     "Python.simple_crawler.executor": "Run",
     "Python.stringdemo.executor": "Run",
