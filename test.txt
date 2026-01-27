@@ -1,5 +1,2 @@
-cat
-dogs
 elephant
-
-values = [abc,"abcd",sushant]
+cat
