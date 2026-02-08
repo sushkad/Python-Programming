@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4eb23c55-6777-4a2c-9373-048933d9669a" name="Changes" comment="28 aug">
-      <change afterPath="$PROJECT_DIR$/Concatenate two strings and print the result.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Create a list of fruits and access elements using indexing.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/ema_scan.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storing a person's details.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e2e-test-frontend" beforeDir="false" afterPath="$PROJECT_DIR$/e2e-test-frontend" afterDir="false" />
     </list>
@@ -66,6 +65,7 @@
     "Python.Classesobject.executor": "Run",
     "Python.Concatenate two strings and print the result.executor": "Run",
     "Python.Constructor.executor": "Run",
+    "Python.Create a list of fruits and access elements using indexing.executor": "Run",
     "Python.Datatypes.executor": "Run",
     "Python.Dictionaries.executor": "Run",
     "Python.EvenOdd.executor": "Run",
