@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4eb23c55-6777-4a2c-9373-048933d9669a" name="Changes" comment="28 aug">
-      <change afterPath="$PROJECT_DIR$/Read a Text File and Print Its Contents.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/ema_scan.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raise exception.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e2e-test-frontend" beforeDir="false" afterPath="$PROJECT_DIR$/e2e-test-frontend" afterDir="false" />
     </list>
@@ -55,62 +55,93 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.Arrayprogramm.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Averagecalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Basiccalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ChildInheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Classesobject.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Concatenate two strings and print the result.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Constructor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Create a list of fruits and access elements using indexing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Datatypes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Dictionaries.executor&quot;: &quot;Run&quot;,
-    &quot;Python.EvenOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Function to count the number of vowels in a given string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Greetfuction.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Interview.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SDET1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.StringtoInt.executor&quot;: &quot;Run&quot;,
-    &quot;Python.While loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Whileq.executor&quot;: &quot;Run&quot;,
-    &quot;Python.array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.basics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.boxPrint.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cats.executor&quot;: &quot;Run&quot;,
-    &quot;Python.coder.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fivetimes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hyperlink.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ifelse.executor&quot;: &quot;Run&quot;,
-    &quot;Python.listpgm.executor&quot;: &quot;Run&quot;,
-    &quot;Python.login_crawler.executor&quot;: &quot;Run&quot;,
-    &quot;Python.loop1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mcx.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.readthecontent.executor&quot;: &quot;Run&quot;,
-    &quot;Python.readwrite.executor&quot;: &quot;Run&quot;,
-    &quot;Python.shorts.executor&quot;: &quot;Run&quot;,
-    &quot;Python.simple_crawler.executor&quot;: &quot;Run&quot;,
-    &quot;Python.storing a person's details.executor&quot;: &quot;Run&quot;,
-    &quot;Python.stringdemo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.webcrawling.executor&quot;: &quot;Run&quot;,
-    &quot;Python.while loop18-2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.writedata.executor&quot;: &quot;Run&quot;,
-    &quot;Python.y.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.Arrayprogramm.executor": "Run",
+    "Python.Averagecalculator.executor": "Run",
+    "Python.Basiccalculator.executor": "Run",
+    "Python.ChildInheritance.executor": "Run",
+    "Python.Classesobject.executor": "Run",
+    "Python.Concatenate two strings and print the result.executor": "Run",
+    "Python.Constructor.executor": "Run",
+    "Python.Create a list of fruits and access elements using indexing.executor": "Run",
+    "Python.Datatypes.executor": "Run",
+    "Python.Dictionaries.executor": "Run",
+    "Python.EvenOdd.executor": "Run",
+    "Python.Function to count the number of vowels in a given string.executor": "Run",
+    "Python.Function.executor": "Run",
+    "Python.Greetfuction.executor": "Run",
+    "Python.Inheritance.executor": "Run",
+    "Python.Interview.executor": "Run",
+    "Python.Loop.executor": "Run",
+    "Python.SDET1.executor": "Run",
+    "Python.Strings.executor": "Run",
+    "Python.StringtoInt.executor": "Run",
+    "Python.While loop.executor": "Run",
+    "Python.Whileq.executor": "Run",
+    "Python.array.executor": "Run",
+    "Python.basics.executor": "Run",
+    "Python.boxPrint.executor": "Run",
+    "Python.cats.executor": "Run",
+    "Python.coder.executor": "Run",
+    "Python.fivetimes.executor": "Run",
+    "Python.hyperlink.executor": "Run",
+    "Python.ifelse.executor": "Run",
+    "Python.listpgm.executor": "Run",
+    "Python.login_crawler.executor": "Run",
+    "Python.loop1.executor": "Run",
+    "Python.mcx.executor": "Run",
+    "Python.oops.executor": "Run",
+    "Python.raise exception.executor": "Run",
+    "Python.readthecontent.executor": "Run",
+    "Python.readwrite.executor": "Run",
+    "Python.shorts.executor": "Run",
+    "Python.simple_crawler.executor": "Run",
+    "Python.storing a person's details.executor": "Run",
+    "Python.stringdemo.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.webcrawling.executor": "Run",
+    "Python.while loop18-2.executor": "Run",
+    "Python.writedata.executor": "Run",
+    "Python.y.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration name="raise exception" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pythonpro" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/raise exception.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.raise exception" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
