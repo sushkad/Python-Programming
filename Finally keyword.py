@@ -19,3 +19,6 @@ try:
 except Exception as e:
     print(e)
 
+finally:
+    with open('example.txt') as f:
+        print("Cleaning up resources")
