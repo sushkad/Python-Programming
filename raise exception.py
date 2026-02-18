@@ -1,4 +1,4 @@
-
+from writedata import reader
 
 ItemsInCart = 0
 
@@ -8,3 +8,14 @@ if ItemsInCart != 2:
 
 
 assert(ItemsInCart == 0)
+
+
+# try , Catch
+
+try:
+    with open('example.txt') as f:
+        reader.read()
+
+except Exception as e:
+    print(e)
+
