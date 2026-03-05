@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4eb23c55-6777-4a2c-9373-048933d9669a" name="Changes" comment="28 aug">
+      <change afterPath="$PROJECT_DIR$/Tuple modification exception with Try Catch.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/ema_scan.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exception handling.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e2e-test-frontend" beforeDir="false" afterPath="$PROJECT_DIR$/e2e-test-frontend" afterDir="false" />
     </list>
@@ -83,6 +83,7 @@
     "Python.SDET1.executor": "Run",
     "Python.Strings.executor": "Run",
     "Python.StringtoInt.executor": "Run",
+    "Python.Tuple modification exception with Try Catch.executor": "Run",
     "Python.While loop.executor": "Run",
     "Python.Whileq.executor": "Run",
     "Python.array.executor": "Run",
@@ -91,6 +92,7 @@
     "Python.cats.executor": "Run",
     "Python.coder.executor": "Run",
     "Python.except.executor": "Run",
+    "Python.exception handling.executor": "Run",
     "Python.fivetimes.executor": "Run",
     "Python.hyperlink.executor": "Run",
     "Python.ifelse.executor": "Run",
