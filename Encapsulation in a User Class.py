@@ -16,7 +16,7 @@ class User:
         return self.__password == password
 
 # Example usage
-user = User("john_doe", "securePass123")
+user = User("sushant", "securePass123")
 print(user.get_username())  # john_doe
 print(user.verify_password("securePass123"))  # True
 user.set_password("newSecurePass")
