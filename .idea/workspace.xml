@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4eb23c55-6777-4a2c-9373-048933d9669a" name="Changes" comment="28 aug">
-      <change afterPath="$PROJECT_DIR$/IQPrimeNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/ema_scan.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -82,6 +82,7 @@
     "Python.List Comprehension | Find Common Elements.executor": "Run",
     "Python.Listmultiple_pgm.executor": "Run",
     "Python.Loop.executor": "Run",
+    "Python.P1.executor": "Run",
     "Python.Replace and Append.executor": "Run",
     "Python.SDET1.executor": "Run",
     "Python.Strings.executor": "Run",
