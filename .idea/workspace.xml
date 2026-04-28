@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4eb23c55-6777-4a2c-9373-048933d9669a" name="Changes" comment="28 aug">
+      <change afterPath="$PROJECT_DIR$/How To Swap 2 Numbers.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/ema_scan.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/even number in the list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e2e-test-frontend" beforeDir="false" afterPath="$PROJECT_DIR$/e2e-test-frontend" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login_crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/login_crawler.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,11 +100,13 @@
     "Python.cats.executor": "Run",
     "Python.coder.executor": "Run",
     "Python.demobrowser.executor": "Run",
+    "Python.even number in the list.executor": "Run",
     "Python.except.executor": "Run",
     "Python.exception handling.executor": "Run",
     "Python.fivetimes.executor": "Run",
     "Python.hyperlink.executor": "Run",
     "Python.ifelse.executor": "Run",
+    "Python.list1.executor": "Run",
     "Python.listpgm.executor": "Run",
     "Python.login_crawler.executor": "Run",
     "Python.loop1.executor": "Run",
