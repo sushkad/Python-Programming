@@ -7,9 +7,10 @@
     <list default="true" id="4eb23c55-6777-4a2c-9373-048933d9669a" name="Changes" comment="28 aug">
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/ema_scan.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stringbased programs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vowels.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e2e-test-frontend" beforeDir="false" afterPath="$PROJECT_DIR$/e2e-test-frontend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stringbased programs.py" beforeDir="false" afterPath="$PROJECT_DIR$/stringbased programs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +124,7 @@
     "Python.stringbased programs.executor": "Run",
     "Python.stringdemo.executor": "Run",
     "Python.test.executor": "Run",
+    "Python.vowels.executor": "Run",
     "Python.webcrawling.executor": "Run",
     "Python.while loop18-2.executor": "Run",
     "Python.writedata.executor": "Run",

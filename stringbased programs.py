@@ -3,7 +3,7 @@
 def reverse_str(s):
     return s[::-1]
 
-print(reverse_str("aeious"))
+print(reverse_str("women"))
 
 
 def palindrome(s):
@@ -12,7 +12,3 @@ def palindrome(s):
 print(palindrome("a"))
 
 
-def vowels(s):
-    vowels = ['a','e','i','o','u']
-    count = 0
-    for char in s:
