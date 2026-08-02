@@ -5,17 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4eb23c55-6777-4a2c-9373-048933d9669a" name="Changes" comment="28 aug">
+      <change afterPath="$PROJECT_DIR$/Fundamental.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/To Do List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command line calculator.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/ema_scan.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vowels.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e2e-test-frontend" beforeDir="false" afterPath="$PROJECT_DIR$/e2e-test-frontend" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stringbased programs.py" beforeDir="false" afterPath="$PROJECT_DIR$/stringbased programs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="105" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -45,6 +50,69 @@
     &quot;accountId&quot;: &quot;4fb903e2-40d8-4568-a1f7-8581818a8c1a&quot;
   }
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000039756787997" />
+      <entry key="S2" value="1.0796254045248792" />
+      <entry key="S5" value="1.6843220427407144" />
+      <entry key="S10" value="2.6065262210637474" />
+      <entry key="S30" value="7.094250422608963" />
+      <entry key="S60" value="13.15437144678342" />
+      <entry key="M2" value="19.85774362631631" />
+      <entry key="M5" value="29.338405487132373" />
+      <entry key="M10" value="39.86176896809613" />
+      <entry key="M15" value="46.65420285804984" />
+      <entry key="M30" value="56.72847543788065" />
+      <entry key="H1" value="63.55550476830054" />
+      <entry key="H2" value="67.55121855490184" />
+      <entry key="H4" value="69.71559795078345" />
+      <entry key="D1" value="71.6106276227103" />
+      <entry key="W1" value="71.94415973237898" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="3.667098434324295E-158" />
+      <entry key="MS500" value="3.257350658724366E-32" />
+      <entry key="S2" value="1.3447392072838705E-8" />
+      <entry key="S5" value="7.557828698651507E-4" />
+      <entry key="S10" value="0.0345040205531237" />
+      <entry key="S30" value="0.5931135031132085" />
+      <entry key="S60" value="1.3063061968717478" />
+      <entry key="M2" value="1.9691303813655092" />
+      <entry key="M5" value="2.568494002842852" />
+      <entry key="M10" value="2.9474766619969937" />
+      <entry key="M15" value="3.1674814784214287" />
+      <entry key="M30" value="3.493096491119613" />
+      <entry key="H1" value="3.717361963444892" />
+      <entry key="H2" value="3.850359656344656" />
+      <entry key="H4" value="3.9229554881130375" />
+      <entry key="D1" value="3.986837267039337" />
+      <entry key="W1" value="3.998111548391378" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9526379980439373" />
+      <entry key="MS500" value="0.990346782470827" />
+      <entry key="S2" value="1.076864825770908" />
+      <entry key="S5" value="1.681845659845919" />
+      <entry key="S10" value="2.6249421303851177" />
+      <entry key="S30" value="7.621064187546051" />
+      <entry key="S60" value="14.385481805813113" />
+      <entry key="M2" value="21.766162151125595" />
+      <entry key="M5" value="31.86924411332858" />
+      <entry key="M10" value="42.78209448216521" />
+      <entry key="M15" value="49.79973448924874" />
+      <entry key="M30" value="60.20761974745694" />
+      <entry key="H1" value="67.26485123887043" />
+      <entry key="H2" value="71.39726174085946" />
+      <entry key="H4" value="73.6363109692769" />
+      <entry key="D1" value="75.59707879725146" />
+      <entry key="W1" value="75.94221581349994" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -78,6 +146,7 @@
     "Python.Find the frequency of each element in the array.executor": "Run",
     "Python.Function to count the number of vowels in a given string.executor": "Run",
     "Python.Function.executor": "Run",
+    "Python.Fundamental.executor": "Run",
     "Python.Generates a pyramid with an N value of 10.executor": "Run",
     "Python.Greetfuction.executor": "Run",
     "Python.IQPrimeNumbers.executor": "Run",
@@ -87,11 +156,13 @@
     "Python.Listmultiple_pgm.executor": "Run",
     "Python.Loop.executor": "Run",
     "Python.P1.executor": "Run",
+    "Python.Reg.executor": "Run",
     "Python.Replace and Append.executor": "Run",
     "Python.SDET1.executor": "Run",
     "Python.Strings.executor": "Run",
     "Python.StringtoInt.executor": "Run",
     "Python.Sum of Array Elements.executor": "Run",
+    "Python.To Do List.executor": "Run",
     "Python.Tuple modification exception with Try Catch.executor": "Run",
     "Python.While loop.executor": "Run",
     "Python.Whileq.executor": "Run",
@@ -100,6 +171,7 @@
     "Python.boxPrint.executor": "Run",
     "Python.cats.executor": "Run",
     "Python.coder.executor": "Run",
+    "Python.command line calculator.executor": "Run",
     "Python.demobrowser.executor": "Run",
     "Python.even number in the list.executor": "Run",
     "Python.except.executor": "Run",
@@ -129,15 +201,96 @@
     "Python.while loop18-2.executor": "Run",
     "Python.writedata.executor": "Run",
     "Python.y.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
     "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion.inline"
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="Reg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pythonpro" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="To Do List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pythonpro" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/To Do List.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="command line calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pythonpro" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/command line calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="demobrowser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pythonpro" />
       <option name="ENV_FILES" value="" />
@@ -151,6 +304,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demobrowser.py" />
       <option name="PARAMETERS" value="" />
@@ -174,6 +328,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/raise exception.py" />
       <option name="PARAMETERS" value="" />
@@ -186,6 +341,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.To Do List" />
+        <item itemvalue="Python.command line calculator" />
+        <item itemvalue="Python.Reg" />
         <item itemvalue="Python.demobrowser" />
         <item itemvalue="Python.raise exception" />
       </list>
@@ -194,7 +352,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0978a7220b69-9867c7d4c0a4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.28294.336" />
+        <option value="bundled-python-sdk-245168a56dbd-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.25134.203" />
       </set>
     </attachedChunks>
   </component>
@@ -265,6 +423,9 @@
     </task>
     <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="Jenkinsfile" />
