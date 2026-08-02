@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4eb23c55-6777-4a2c-9373-048933d9669a" name="Changes" comment="28 aug">
-      <change afterPath="$PROJECT_DIR$/Fundamental.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/command line calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Store Information with variables.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/ema_scan.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -20,7 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="105" />
+    <option name="cachedIndexableFilesCount" value="106" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -56,61 +53,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000039756787997" />
-      <entry key="S2" value="1.0796254045248792" />
-      <entry key="S5" value="1.6843220427407144" />
-      <entry key="S10" value="2.6065262210637474" />
-      <entry key="S30" value="7.094250422608963" />
-      <entry key="S60" value="13.15437144678342" />
-      <entry key="M2" value="19.85774362631631" />
-      <entry key="M5" value="29.338405487132373" />
-      <entry key="M10" value="39.86176896809613" />
-      <entry key="M15" value="46.65420285804984" />
-      <entry key="M30" value="56.72847543788065" />
-      <entry key="H1" value="63.55550476830054" />
-      <entry key="H2" value="67.55121855490184" />
-      <entry key="H4" value="69.71559795078345" />
-      <entry key="D1" value="71.6106276227103" />
-      <entry key="W1" value="71.94415973237898" />
+      <entry key="MS100" value="2.2334608233656352E-10" />
+      <entry key="MS500" value="0.011744855020075204" />
+      <entry key="S2" value="0.36365010113673674" />
+      <entry key="S5" value="0.9183936665731104" />
+      <entry key="S10" value="1.559289798326807" />
+      <entry key="S30" value="4.411464995070285" />
+      <entry key="S60" value="11.334446517786121" />
+      <entry key="M2" value="30.46460419498539" />
+      <entry key="M5" value="73.76421464700124" />
+      <entry key="M10" value="109.36506627986643" />
+      <entry key="M15" value="128.27706252981213" />
+      <entry key="M30" value="154.2165003418626" />
+      <entry key="H1" value="171.19482619817234" />
+      <entry key="H2" value="181.04867284278333" />
+      <entry key="H4" value="186.37706197091302" />
+      <entry key="D1" value="191.04146422815032" />
+      <entry key="W1" value="191.86253019218765" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="3.667098434324295E-158" />
-      <entry key="MS500" value="3.257350658724366E-32" />
-      <entry key="S2" value="1.3447392072838705E-8" />
-      <entry key="S5" value="7.557828698651507E-4" />
-      <entry key="S10" value="0.0345040205531237" />
-      <entry key="S30" value="0.5931135031132085" />
-      <entry key="S60" value="1.3063061968717478" />
-      <entry key="M2" value="1.9691303813655092" />
-      <entry key="M5" value="2.568494002842852" />
-      <entry key="M10" value="2.9474766619969937" />
-      <entry key="M15" value="3.1674814784214287" />
-      <entry key="M30" value="3.493096491119613" />
-      <entry key="H1" value="3.717361963444892" />
-      <entry key="H2" value="3.850359656344656" />
-      <entry key="H4" value="3.9229554881130375" />
-      <entry key="D1" value="3.986837267039337" />
-      <entry key="W1" value="3.998111548391378" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000002224524" />
+      <entry key="S2" value="1.0217718734604209" />
+      <entry key="S5" value="1.2358242157747772" />
+      <entry key="S10" value="1.605272309343898" />
+      <entry key="S30" value="2.3309472195855374" />
+      <entry key="S60" value="2.7954286319155788" />
+      <entry key="M2" value="3.3196437482059835" />
+      <entry key="M5" value="4.393726031751066" />
+      <entry key="M10" value="5.4101122600336575" />
+      <entry key="M15" value="5.979851149216774" />
+      <entry key="M30" value="6.785155084699951" />
+      <entry key="H1" value="7.325313904500381" />
+      <entry key="H2" value="7.643172249252712" />
+      <entry key="H4" value="7.816327916374934" />
+      <entry key="D1" value="7.968621972340655" />
+      <entry key="W1" value="7.995498178835882" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9526379980439373" />
-      <entry key="MS500" value="0.990346782470827" />
-      <entry key="S2" value="1.076864825770908" />
-      <entry key="S5" value="1.681845659845919" />
-      <entry key="S10" value="2.6249421303851177" />
-      <entry key="S30" value="7.621064187546051" />
-      <entry key="S60" value="14.385481805813113" />
-      <entry key="M2" value="21.766162151125595" />
-      <entry key="M5" value="31.86924411332858" />
-      <entry key="M10" value="42.78209448216521" />
-      <entry key="M15" value="49.79973448924874" />
-      <entry key="M30" value="60.20761974745694" />
-      <entry key="H1" value="67.26485123887043" />
-      <entry key="H2" value="71.39726174085946" />
-      <entry key="H4" value="73.6363109692769" />
-      <entry key="D1" value="75.59707879725146" />
-      <entry key="W1" value="75.94221581349994" />
+      <entry key="MS100" value="4.664002524169291E-6" />
+      <entry key="MS500" value="0.08628117585236048" />
+      <entry key="S2" value="0.7287092037313856" />
+      <entry key="S5" value="1.6967111940190944" />
+      <entry key="S10" value="2.8307336323048333" />
+      <entry key="S30" value="6.523675705564247" />
+      <entry key="S60" value="13.971561103983419" />
+      <entry key="M2" value="33.67702392261414" />
+      <entry key="M5" value="78.0944955750863" />
+      <entry key="M10" value="114.73179786032152" />
+      <entry key="M15" value="134.22259599551816" />
+      <entry key="M30" value="160.98009394343052" />
+      <entry key="H1" value="178.50772723774634" />
+      <entry key="H2" value="188.68513521328808" />
+      <entry key="H4" value="194.1898946965773" />
+      <entry key="D1" value="199.00948283289185" />
+      <entry key="W1" value="199.8579416467098" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -159,6 +156,7 @@
     "Python.Reg.executor": "Run",
     "Python.Replace and Append.executor": "Run",
     "Python.SDET1.executor": "Run",
+    "Python.Store Information with variables.executor": "Run",
     "Python.Strings.executor": "Run",
     "Python.StringtoInt.executor": "Run",
     "Python.Sum of Array Elements.executor": "Run",
@@ -215,144 +213,13 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.completion.inline"
+    "settings.editor.selected.configurable": "ml.llm.AcpAgentsConfigurable"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Reg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Pythonpro" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reg.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="To Do List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Pythonpro" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/To Do List.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="command line calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Pythonpro" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/command line calculator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="demobrowser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Pythonpro" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demobrowser.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="raise exception" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Pythonpro" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/raise exception.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.To Do List" />
-        <item itemvalue="Python.command line calculator" />
-        <item itemvalue="Python.Reg" />
-        <item itemvalue="Python.demobrowser" />
-        <item itemvalue="Python.raise exception" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-245168a56dbd-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.25134.203" />
+        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
       </set>
     </attachedChunks>
   </component>
