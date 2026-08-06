@@ -18,3 +18,8 @@ print(f"Hello, {name}!")
 
 nums =[2,3,5,0,1]
 print(f"The maximum number is: {max(nums)}")
+
+
+
+list = [1, 2, 3, 4, 5]
+print(f"The sum of the list is: {sum(list)}")
