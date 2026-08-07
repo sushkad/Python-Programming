@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4eb23c55-6777-4a2c-9373-048933d9669a" name="Changes" comment="28 aug">
+      <change afterPath="$PROJECT_DIR$/How to Find the Largest Number in a Python List.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/ema_scan.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e2e-test-frontend" beforeDir="false" afterPath="$PROJECT_DIR$/e2e-test-frontend" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="108" />
+    <option name="cachedIndexableFilesCount" value="110" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,61 +53,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.218524621453583" />
-      <entry key="MS500" value="3.6444479389731335" />
-      <entry key="S2" value="11.214184568887452" />
-      <entry key="S5" value="21.767815115214265" />
-      <entry key="S10" value="33.4282163808525" />
-      <entry key="S30" value="54.30175343910555" />
-      <entry key="S60" value="71.03287455905047" />
-      <entry key="M2" value="93.39872030329826" />
-      <entry key="M5" value="128.15452818104595" />
-      <entry key="M10" value="150.41054220582603" />
-      <entry key="M15" value="160.04952467922107" />
-      <entry key="M30" value="171.15263635106598" />
-      <entry key="H1" value="177.33860206181598" />
-      <entry key="H2" value="180.60739351211225" />
-      <entry key="H4" value="182.49956054359413" />
-      <entry key="D1" value="255.71009585697368" />
-      <entry key="W1" value="379.5205401233556" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000000004806551" />
+      <entry key="S2" value="1.0119843918744067" />
+      <entry key="S5" value="1.3006610020779097" />
+      <entry key="S10" value="1.9729913785219824" />
+      <entry key="S30" value="3.77115068341742" />
+      <entry key="S60" value="5.237679493077163" />
+      <entry key="M2" value="10.607784239403284" />
+      <entry key="M5" value="51.2943290337876" />
+      <entry key="M10" value="107.64167469006951" />
+      <entry key="M15" value="140.26603269341737" />
+      <entry key="M30" value="184.2697583054956" />
+      <entry key="H1" value="211.83446611664635" />
+      <entry key="H2" value="227.29379493075803" />
+      <entry key="H4" value="235.69001843668204" />
+      <entry key="D1" value="314.2012828064279" />
+      <entry key="W1" value="439.21739116262984" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.895752842905039E-185" />
-      <entry key="S2" value="7.414947580032765E-47" />
-      <entry key="S5" value="6.276591259663705E-19" />
-      <entry key="S10" value="1.6284679572285438E-9" />
-      <entry key="S30" value="0.003395359986162831" />
-      <entry key="S60" value="0.1391984725688987" />
-      <entry key="M2" value="1.023098943802104" />
-      <entry key="M5" value="3.8366235433510383" />
-      <entry key="M10" value="6.1425165256655685" />
-      <entry key="M15" value="7.21240804725553" />
-      <entry key="M30" value="8.484573098825813" />
-      <entry key="H1" value="9.208996243640287" />
-      <entry key="H2" value="9.595790710626762" />
-      <entry key="H4" value="9.803000048019287" />
-      <entry key="D1" value="12.459126833268677" />
-      <entry key="W1" value="16.767807793911253" />
+      <entry key="MS100" value="4.333567649698226E-34" />
+      <entry key="MS500" value="2.125151160073629E-7" />
+      <entry key="S2" value="0.02325472269469628" />
+      <entry key="S5" value="0.29526760803539776" />
+      <entry key="S10" value="0.7699733283779482" />
+      <entry key="S30" value="1.718754087068447" />
+      <entry key="S60" value="2.2286394068611446" />
+      <entry key="M2" value="2.6381293074584886" />
+      <entry key="M5" value="4.013876797786681" />
+      <entry key="M10" value="6.445894868207984" />
+      <entry key="M15" value="8.076310156744452" />
+      <entry key="M30" value="10.468897771100497" />
+      <entry key="H1" value="12.062109955485958" />
+      <entry key="H2" value="12.983514890640626" />
+      <entry key="H4" value="13.486382254031515" />
+      <entry key="D1" value="16.392656620258073" />
+      <entry key="W1" value="20.755259343578548" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.191096912199207" />
-      <entry key="MS500" value="3.6272768652282306" />
-      <entry key="S2" value="11.20113941906884" />
-      <entry key="S5" value="21.75731084073886" />
-      <entry key="S10" value="33.41879780731222" />
-      <entry key="S30" value="54.28722686432431" />
-      <entry key="S60" value="71.14765118523992" />
-      <entry key="M2" value="94.38734496335853" />
-      <entry key="M5" value="131.9524649245154" />
-      <entry key="M10" value="156.52367128641973" />
-      <entry key="M15" value="167.2392401692624" />
-      <entry key="M30" value="179.62402045306567" />
-      <entry key="H1" value="186.54047924297132" />
-      <entry key="H2" value="190.19948465176608" />
-      <entry key="H4" value="192.30067132354012" />
-      <entry key="D1" value="268.1687132005744" />
-      <entry key="W1" value="396.28822821671673" />
+      <entry key="MS100" value="0.8888426811665702" />
+      <entry key="MS500" value="0.9767086029763697" />
+      <entry key="S2" value="1.0176605323285903" />
+      <entry key="S5" value="1.4918301687849929" />
+      <entry key="S10" value="2.5799491514497532" />
+      <entry key="S30" value="5.3407527881522405" />
+      <entry key="S60" value="7.36073490964777" />
+      <entry key="M2" value="13.179206829227812" />
+      <entry key="M5" value="55.26514044687304" />
+      <entry key="M10" value="114.05344309961083" />
+      <entry key="M15" value="148.31419850948558" />
+      <entry key="M30" value="194.7207042678551" />
+      <entry key="H1" value="223.88632493340805" />
+      <entry key="H2" value="240.27181770111227" />
+      <entry key="H4" value="249.17355310324385" />
+      <entry key="D1" value="330.59326200300586" />
+      <entry key="W1" value="459.9725065032101" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -144,6 +146,7 @@
     "Python.Fundamental.executor": "Run",
     "Python.Generates a pyramid with an N value of 10.executor": "Run",
     "Python.Greetfuction.executor": "Run",
+    "Python.How to Find the Largest Number in a Python List.executor": "Run",
     "Python.IQPrimeNumbers.executor": "Run",
     "Python.Inheritance.executor": "Run",
     "Python.Interview.executor": "Run",
@@ -205,7 +208,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
