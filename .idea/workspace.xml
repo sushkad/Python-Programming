@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4eb23c55-6777-4a2c-9373-048933d9669a" name="Changes" comment="28 aug">
-      <change afterPath="$PROJECT_DIR$/How to Find the Largest Number in a Python List.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/ema_scan.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/e2e-test-frontend/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/How to Find the Largest Number in a Python List.py" beforeDir="false" afterPath="$PROJECT_DIR$/How to Find the Largest Number in a Python List.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e2e-test-frontend" beforeDir="false" afterPath="$PROJECT_DIR$/e2e-test-frontend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/y.py" beforeDir="false" afterPath="$PROJECT_DIR$/y.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,61 +54,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.000000004806551" />
-      <entry key="S2" value="1.0119843918744067" />
-      <entry key="S5" value="1.3006610020779097" />
-      <entry key="S10" value="1.9729913785219824" />
-      <entry key="S30" value="3.77115068341742" />
-      <entry key="S60" value="5.237679493077163" />
-      <entry key="M2" value="10.607784239403284" />
-      <entry key="M5" value="51.2943290337876" />
-      <entry key="M10" value="107.64167469006951" />
-      <entry key="M15" value="140.26603269341737" />
-      <entry key="M30" value="184.2697583054956" />
-      <entry key="H1" value="211.83446611664635" />
-      <entry key="H2" value="227.29379493075803" />
-      <entry key="H4" value="235.69001843668204" />
-      <entry key="D1" value="314.2012828064279" />
-      <entry key="W1" value="439.21739116262984" />
+      <entry key="MS100" value="9.789322680487684E-11" />
+      <entry key="MS500" value="0.009957504900931736" />
+      <entry key="S2" value="0.3158912760659611" />
+      <entry key="S5" value="0.6306887044173269" />
+      <entry key="S10" value="0.7941607967868007" />
+      <entry key="S30" value="0.9514702599485826" />
+      <entry key="S60" value="1.274859844008989" />
+      <entry key="M2" value="2.2568432937587732" />
+      <entry key="M5" value="7.915429688231573" />
+      <entry key="M10" value="18.107772206923954" />
+      <entry key="M15" value="24.85926535993217" />
+      <entry key="M30" value="34.6731499373818" />
+      <entry key="H1" value="41.157745933131366" />
+      <entry key="H2" value="44.89636302403108" />
+      <entry key="H4" value="47.9870262968912" />
+      <entry key="D1" value="190.42400476315345" />
+      <entry key="W1" value="471.53451185692353" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="4.333567649698226E-34" />
-      <entry key="MS500" value="2.125151160073629E-7" />
-      <entry key="S2" value="0.02325472269469628" />
-      <entry key="S5" value="0.29526760803539776" />
-      <entry key="S10" value="0.7699733283779482" />
-      <entry key="S30" value="1.718754087068447" />
-      <entry key="S60" value="2.2286394068611446" />
-      <entry key="M2" value="2.6381293074584886" />
-      <entry key="M5" value="4.013876797786681" />
-      <entry key="M10" value="6.445894868207984" />
-      <entry key="M15" value="8.076310156744452" />
-      <entry key="M30" value="10.468897771100497" />
-      <entry key="H1" value="12.062109955485958" />
-      <entry key="H2" value="12.983514890640626" />
-      <entry key="H4" value="13.486382254031515" />
-      <entry key="D1" value="16.392656620258073" />
-      <entry key="W1" value="20.755259343578548" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.000000000000026" />
+      <entry key="S10" value="1.0000002239665104" />
+      <entry key="S30" value="1.0095986061453222" />
+      <entry key="S60" value="1.1386648700277244" />
+      <entry key="M2" value="1.5605745909984639" />
+      <entry key="M5" value="3.194567450490162" />
+      <entry key="M10" value="5.848791807629952" />
+      <entry key="M15" value="7.609466718524113" />
+      <entry key="M30" value="10.189682833474567" />
+      <entry key="H1" value="11.908232932148945" />
+      <entry key="H2" value="12.90277266627182" />
+      <entry key="H4" value="13.49046509989818" />
+      <entry key="D1" value="20.410821260295826" />
+      <entry key="W1" value="32.17487873164609" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8888426811665702" />
-      <entry key="MS500" value="0.9767086029763697" />
-      <entry key="S2" value="1.0176605323285903" />
-      <entry key="S5" value="1.4918301687849929" />
-      <entry key="S10" value="2.5799491514497532" />
-      <entry key="S30" value="5.3407527881522405" />
-      <entry key="S60" value="7.36073490964777" />
-      <entry key="M2" value="13.179206829227812" />
-      <entry key="M5" value="55.26514044687304" />
-      <entry key="M10" value="114.05344309961083" />
-      <entry key="M15" value="148.31419850948558" />
-      <entry key="M30" value="194.7207042678551" />
-      <entry key="H1" value="223.88632493340805" />
-      <entry key="H2" value="240.27181770111227" />
-      <entry key="H4" value="249.17355310324385" />
-      <entry key="D1" value="330.59326200300586" />
-      <entry key="W1" value="459.9725065032101" />
+      <entry key="MS100" value="0.006003418678098092" />
+      <entry key="MS500" value="0.3636073899212626" />
+      <entry key="S2" value="1.0277210601283884" />
+      <entry key="S5" value="1.4802138218706438" />
+      <entry key="S10" value="1.71004368795937" />
+      <entry key="S30" value="1.9299942375698524" />
+      <entry key="S60" value="2.3934084856128504" />
+      <entry key="M2" value="3.799900503726958" />
+      <entry key="M5" value="11.08765157293351" />
+      <entry key="M10" value="23.93233379670205" />
+      <entry key="M15" value="32.44689309609611" />
+      <entry key="M30" value="44.84780575419607" />
+      <entry key="H1" value="53.05711329714382" />
+      <entry key="H2" value="57.79431413163808" />
+      <entry key="H4" value="61.47496472105872" />
+      <entry key="D1" value="210.83411355818316" />
+      <entry key="W1" value="503.7091990410633" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -218,6 +219,37 @@
     "settings.editor.selected.configurable": "ml.llm.AcpAgentsConfigurable"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="y" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pythonpro" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/y.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.y" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
